@@ -1,5 +1,5 @@
 # My Personal Project: Custom Earring Pre-Order App
-This project was created for my Software Engineering class.
+This project was created for my Software Design class.
 
 ## CustomEar: A Custom Earring Pre-Order App 
 *CustomEar* is a custom earring pre-order app for **customers who love handcrafted earrings** 
